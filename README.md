@@ -4,12 +4,11 @@ This Pipe allows to get data from a hubspot owned account, specifically get from
 
 Steps are:
 
-1.using keys get data from hubspot api
-2.asdsad
-3.Using data get the id and all properties needed.
-4.Move the results to aws s3 datalake
-5.Move to snowflake temp table
-6.Aplly merge to master table using temp table in Snowflake.
+1. Using keys get data from hubspot api
+2. Using data get the id and all properties needed.
+3. Move the results to aws s3 datalake
+4. Move to snowflake temp table
+5. Aplly merge to master table using temp table in Snowflake.
  
 The Following images shows the execution Dag
 
