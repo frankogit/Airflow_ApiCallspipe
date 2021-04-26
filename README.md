@@ -3,6 +3,7 @@
 This Pipe allows to get data from a hubspot owned account, specifically get from contacts tables and save into Snowflake DWH.  
 
 Steps are:
+
 1.using keys get data from hubspot api
 2.Using data get the id and all properties needed.
 3.Move the results to aws s3 datalake
